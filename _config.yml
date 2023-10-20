@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My website
+title: Tarek website
 email: tarek.o.natsheh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   
@@ -28,7 +28,7 @@ url: "https://tareknatsheh.com" # the base hostname & protocol for your site, e.
 github_username:  tareknatsheh
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
