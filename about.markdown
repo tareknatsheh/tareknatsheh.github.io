@@ -2,7 +2,6 @@
 layout: post
 title: About
 permalink: /about/
-redirect_from: "/"
 ---
 
 
